@@ -70,11 +70,6 @@ Support attaching receipts or other relevant documents to expense entries.
 
     Set up Continuous Integration and Continuous Deployment (CI/CD) pipelines for automated builds and deployments.
 ## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Priyanshu9898/Expense-Tracker-App
 ```
 
 Go to the project directory
@@ -151,7 +146,5 @@ create config folder and add config.env file in it and all all env variables the
 Insert gif or link to demo
 
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
 
